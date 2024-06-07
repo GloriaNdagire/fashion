@@ -1,0 +1,50 @@
+header{text-align: center;
+font-size: 60px;}
+a{background-color: rgb(236, 11, 161);
+text-decoration: none;
+margin: 20px;}
+body{background-color: pink;
+margin: 0;
+padding: 0;
+}
+form{border: 1px solid black;
+margin-left: 20%;
+margin-right: 20%;}
+input{width: 30%;
+padding: 10px;
+}
+button{width: 10%;}
+button:hover{background-color:  rgb(236, 11, 161)}
+h1{background-color: antiquewhite;
+    text-align: center;}
+    h3{text-align: center;}
+#Lydia{width: 60%;} 
+#Solo{width: 60%;} 
+#one{display: flex;} 
+#two{display: flex;} 
+#Benja{background-color: deeppink;
+width:33.3%;
+padding: 50px;
+border-radius: 5px;
+text-align: center;
+margin: 10px;
+word-spacing: 3px;
+}
+.Namazzi{display: flex;
+}
+#five{width: 33.3%;
+margin: 20px;}
+.four{display: flex;
+}
+img{border-radius: 70%;
+    float:left;
+}
+table,tr,td,th{border: 2px solid black;
+width: 50%;
+border-collapse: collapse;
+}
+.ten{margin-left: 30px;
+font-size: larger;
+word-spacing: 4px;
+
+}
